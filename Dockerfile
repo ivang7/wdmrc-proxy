@@ -2,7 +2,7 @@ FROM    slothds/debian-svd:stretch
 
 LABEL   maintainer="sloth@devils.su"
 
-ENV     WDMRC_VERS=1.10.5.7
+ENV     WDMRC_VERS=1.10.7.10
 ENV     WDMRC_HOME=/opt/home/wdmrc
 
 RUN     apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF && \
