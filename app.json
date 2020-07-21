@@ -1,0 +1,11 @@
+
+{
+  "name": "heroku-wdmrc",
+  "description": "Run visual code in browser (code-server)",
+  "repository": "https://github.com/ivang7/wdmrc-proxy",
+  "logo": "https://camo.githubusercontent.com/c41fa5fc4061f6e22ab892110d23e6305b9434b2/68747470733a2f2f686162726173746f726167652e6f72672f66696c65732f3732652f3833622f3135392f37326538336231353963323434366239616463646161303362396262356335352e706e67",
+  "keywords": ["wdmrc", "webdav", "mailrucloud"],
+  "stack": "container",
+  "env": {
+  } 
+}
