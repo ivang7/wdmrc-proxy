@@ -6,3 +6,5 @@ build latest verions wdmrc from releases repository [yar229/WebDavMailRuCloud](h
 
 button for create heroku app
 [![herokuButton]](https://heroku.com/deploy?template=https://github.com/ivang7/wdmrc-proxy/tree/heroku)
+
+[herokuButton]: https://www.herokucdn.com/deploy/button.svg "Deploy to heroku"
